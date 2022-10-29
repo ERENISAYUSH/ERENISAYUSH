@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ERENISAYUSH
 - 👀 I’m interested in open source 
 - 🌱 I’m currently learning data structures and algorithms 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ayushsingh14942@gmail.com 
 
 <!---
